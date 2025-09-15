@@ -1,5 +1,19 @@
 body{
     background-color: rgb(255, 247, 136);
-    color:rgb(0, 174, 255);
-    font-family: "Oswald", sans-serif;
+    color:rgb(183, 73, 0);
+    font-family: "Bricolage Grotesque", sans-serif;
+    margin: 0px;
+}
+
+header{
+    font-size: 35px;
+    border: double 3px rgb(170, 29, 29);
+}
+
+h1{
+    font-size: 27px;
+}
+
+p{
+    font-size: 20px;
 }
