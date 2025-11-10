@@ -1,13 +1,14 @@
 body{
-    background-color: rgb(255, 247, 136);
-    color:rgb(183, 73, 0);
+    background-color: rgb(255, 255, 98);
+    color:rgb(255, 105, 51);
     font-family: "Bricolage Grotesque", sans-serif;
     margin: 0px;
 }
 
 header{
     font-size: 35px;
-    border: double 3px rgb(170, 29, 29);
+    text-align: center;
+    border: double 3px rgb(231, 140, 140);
 }
 
 h1{
