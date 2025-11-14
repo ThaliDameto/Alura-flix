@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 98);
+    background-color: rgb(255, 255, 156);
     color:rgb(255, 105, 51);
     font-family: "Bricolage Grotesque", sans-serif;
     margin: 0px;
@@ -8,7 +8,7 @@ body{
 header{
     font-size: 35px;
     text-align: center;
-    border: double 3px rgb(231, 140, 140);
+    border: double 3px rgb(248, 129, 129);
 }
 
 h1{
@@ -17,4 +17,13 @@ h1{
 
 p{
     font-size: 20px;
+}
+
+section{
+background-color: rgb(255, 228, 218);
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content: center;
+
 }
